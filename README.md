@@ -17,6 +17,7 @@
 <p>🔭 I'm currently working on React apps/systems </p>
 <p>🌱 I’m currently learning Vue and Node.js.</p>
 <p>💬 Ask me about: HTML, CSS, JavaScript and ReactJs</p>
+<p> :smile: Pronouns: She/Her </p>
 <p>⚡ Fun fact: I love to program, eat, dance and travel. </p>
 <p> :hamburger: Burger is my religion </p>
 <p> :round_pushpin: São Paulo, SP </p>
