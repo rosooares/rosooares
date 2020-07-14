@@ -1,5 +1,5 @@
-<p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/16246420/87366079-2e1d1400-c54e-11ea-94ae-e176b8d0deeb.png" />
+<p>
+<img src="https://user-images.githubusercontent.com/16246420/87368144-39267300-c553-11ea-8121-6538f4631361.png" />
 </p>
 
 ### Roberta Soares :woman_technologist:
