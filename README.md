@@ -1,8 +1,6 @@
 <p>
-<img src="https://user-images.githubusercontent.com/16246420/87369025-d71b3d00-c555-11ea-95b5-ef66550f051b.png" />
+<img src="https://user-images.githubusercontent.com/16246420/89299066-90909e00-d63c-11ea-94e0-0f8b13a9d9a5.png" />
 </p>
-
-### Roberta Soares :woman_technologist:
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rosooares)](https://github.com/rosooares)
